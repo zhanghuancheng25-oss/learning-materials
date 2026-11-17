@@ -1,0 +1,16 @@
+# 本地凭据与环境
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 系统与 Office 临时文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
+*.tmp
