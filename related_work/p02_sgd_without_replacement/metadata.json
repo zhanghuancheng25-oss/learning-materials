@@ -1,0 +1,30 @@
+{
+  "slug": "p02_sgd_without_replacement",
+  "arxiv": "1903.01463",
+  "title": "SGD without Replacement: Sharper Rates for General Smooth Convex Functions",
+  "venue": "ICML 2019",
+  "priority": "background",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "1903.01463v2",
+  "arxiv_authors": [
+    "Jain, Prateek",
+    "Nagaraj, Dheeraj",
+    "Netrapalli, Praneeth"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/1903.01463v2",
+  "pdf_sha256": "500c05a9a91e883944fb9a249a17eebb8594d364684362a6341ae6e2599f45a8",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/1903.01463v2",
+  "source_sha256": "70826f99f2d8ce86935134177767423e6c12e1e66228b89e5c205b2ee3d64d50",
+  "tex_files": [
+    "conclusions.tex",
+    "Coupling_Wasserstein.tex",
+    "Intro.tex",
+    "main_results.tex",
+    "notations.tex",
+    "paper.tex",
+    "proof_main_theorems.tex",
+    "supplementary_material.tex"
+  ],
+  "text_extracted": true
+}

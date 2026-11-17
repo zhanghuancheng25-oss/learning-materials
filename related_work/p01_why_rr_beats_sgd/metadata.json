@@ -1,0 +1,23 @@
+{
+  "slug": "p01_why_rr_beats_sgd",
+  "arxiv": "1510.08560",
+  "title": "Why Random Reshuffling Beats Stochastic Gradient Descent",
+  "venue": "Mathematical Programming 2021; arXiv first posted 2015",
+  "priority": "background",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "1510.08560v4",
+  "arxiv_authors": [
+    "Gürbüzbalaban, Mert",
+    "Ozdaglar, Asuman",
+    "Parrilo, Pablo"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/1510.08560v4",
+  "pdf_sha256": "c587db00112317ca4d820cf78eb8b587ab675cbebdce9d5352c480a38058b6ff",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/1510.08560v4",
+  "source_sha256": "217341a084eaa1f01ab29ccb21253d81ed27d80e06163e01313fddb3ea6d41a7",
+  "tex_files": [
+    "random_shuffling-arxiv-ver2.tex"
+  ],
+  "text_extracted": true
+}

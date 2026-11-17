@@ -1,0 +1,26 @@
+{
+  "slug": "p03_simple_analysis",
+  "arxiv": "2006.05988",
+  "title": "Random Reshuffling: Simple Analysis with Vast Improvements",
+  "venue": "NeurIPS 2020",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "2006.05988v3",
+  "arxiv_authors": [
+    "Mishchenko, Konstantin",
+    "Khaled, Ahmed",
+    "Richtárik, Peter"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2006.05988v3",
+  "pdf_sha256": "0d5297cd698d6fd91cbcd03053723640e96118baf922605623b7bb7ac9ca214e",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/2006.05988v3",
+  "source_sha256": "079ae7d82ec4801d2f0b717b1879147ad0f43c0894e0fbbdbd44c61137324a77",
+  "tex_files": [
+    "algs/ig_alg.tex",
+    "algs/rr_alg.tex",
+    "algs/so_alg.tex",
+    "rr_arxiv.tex"
+  ],
+  "text_extracted": true
+}

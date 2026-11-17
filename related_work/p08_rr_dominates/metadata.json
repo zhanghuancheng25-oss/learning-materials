@@ -1,0 +1,26 @@
+{
+  "slug": "p08_rr_dominates",
+  "arxiv": "2611.07406",
+  "title": "Random Reshuffling for Smooth Convex Optimization: Dominates Stochastic Gradient Descent",
+  "venue": "Extended preprint, November 2026; preliminary paper COLT 2026, arXiv:2606.32005",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "2611.07406v1",
+  "arxiv_authors": [
+    "Liu, Zijian"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2611.07406v1",
+  "pdf_sha256": "df9ba4ad76aa411198cdf0e88384bfcaa1bbdc4e7701e3d868ef96e00b9e9415",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/2611.07406v1",
+  "source_sha256": "dbb84c85666543eae997dbe775395cb1e935c57a4dedd4693e2a6822b419053b",
+  "tex_files": [
+    "algorithm.tex",
+    "appendix.tex",
+    "conclusion.tex",
+    "introduction.tex",
+    "main.tex",
+    "preliminaries.tex"
+  ],
+  "text_extracted": true
+}

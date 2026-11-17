@@ -1,0 +1,34 @@
+{
+  "slug": "p06_minibatch_local",
+  "arxiv": "2110.10342",
+  "title": "Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond",
+  "venue": "ICLR 2022",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "2110.10342v2",
+  "arxiv_authors": [
+    "Yun, Chulhee",
+    "Rajput, Shashank",
+    "Sra, Suvrit"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2110.10342v2",
+  "pdf_sha256": "2a778d49d3e04fc95c6961ac7229b52594909e96faaf99e46e5b022c98d4e709",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/2110.10342v2",
+  "source_sha256": "4d831bd5644497384a9d87b0dd789a1631b68fdbb9c4769f01d3ccdb4825a742",
+  "tex_files": [
+    "1_intro.tex",
+    "2_setting.tex",
+    "3_upper.tex",
+    "4_lower.tex",
+    "5_beyond.tex",
+    "6_conclusion.tex",
+    "7_statements.tex",
+    "A1_comparison.tex",
+    "A2_proof_UB.tex",
+    "A3_proof_LB.tex",
+    "cymacros.tex",
+    "main.tex"
+  ],
+  "text_extracted": true
+}

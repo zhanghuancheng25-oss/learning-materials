@@ -1,0 +1,22 @@
+{
+  "slug": "p04_how_good",
+  "arxiv": "1908.00045",
+  "title": "How Good is SGD with Random Shuffling?",
+  "venue": "COLT 2020",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "1908.00045v4",
+  "arxiv_authors": [
+    "Safran, Itay",
+    "Shamir, Ohad"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/1908.00045v4",
+  "pdf_sha256": "b5ad14736fc5ab73a4a0315fedb2d719a60ccdc31e75fac07e7fb0883d7e6002",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/1908.00045v4",
+  "source_sha256": "70c7465fc7eb5059d57619a63e31894e14e6c859cd75d93fdf37b9c15e8b3860",
+  "tex_files": [
+    "sgdbound.tex"
+  ],
+  "text_extracted": true
+}

@@ -14,3 +14,17 @@ Desktop.ini
 .DS_Store
 ~$*
 *.tmp
+
+# research-workflow: local paper/data caches; share links, metadata and notes
+DataSet/*
+!DataSet/README.md
+related_work/*/paper.pdf
+related_work/*/paper.txt
+related_work/*/abstract.html
+related_work/*/source/
+related_work/*/source.tar
+related_work/*/source.tar.gz
+*.orig
+experiment/*/checkpoints/
+experiment/*/*.pt
+.research_cache/

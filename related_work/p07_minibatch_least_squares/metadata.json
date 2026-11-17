@@ -1,0 +1,23 @@
+{
+  "slug": "p07_minibatch_least_squares",
+  "arxiv": "2406.03696",
+  "title": "Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression",
+  "venue": "ALT 2025; arXiv first posted 2024",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "2406.03696v2",
+  "arxiv_authors": [
+    "Lok, Jackie",
+    "Sonthalia, Rishi",
+    "Rebrova, Elizaveta"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2406.03696v2",
+  "pdf_sha256": "8f2bfba53e097275d7601181b29bf05548a96a6c938f1da2a5e50c787ce824a5",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/2406.03696v2",
+  "source_sha256": "078f614eeba19aaa6c5eb64d93d903ebfed592f81cf85e7cafa270282607571c",
+  "tex_files": [
+    "batch.tex"
+  ],
+  "text_extracted": true
+}

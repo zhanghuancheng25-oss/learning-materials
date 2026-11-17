@@ -1,0 +1,11 @@
+{
+  "slug": "p10_minibatch_convex_note",
+  "title": "Minibatch Random Reshuffling for Smooth Convex Optimization: Batch-Size Dependence, Finite-Population Variance, and Quadratic Growth",
+  "venue": "Optimization Online preprint, 11 November 2026; peer review not verified",
+  "priority": "recent_watch",
+  "pdf_url": "https://optimization-online.org/wp-content/uploads/2026/11/minibatch_rr.pdf",
+  "checked_date": "2026-11-17",
+  "pdf_sha256": "35b18f9b785dbbc344e5f2705308c04d361af6af65a61bd971864e4c38442075",
+  "source_status": "no_verified_source_endpoint",
+  "text_extracted": true
+}

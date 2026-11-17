@@ -1,0 +1,22 @@
+{
+  "slug": "p05_many_epochs",
+  "arxiv": "2106.06880",
+  "title": "Random Shuffling Beats SGD Only After Many Epochs on Ill-Conditioned Problems",
+  "venue": "NeurIPS 2021",
+  "priority": "core",
+  "checked_date": "2026-11-17",
+  "pinned_arxiv": "2106.06880v2",
+  "arxiv_authors": [
+    "Safran, Itay",
+    "Shamir, Ohad"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2106.06880v2",
+  "pdf_sha256": "8e4c83135b88ec408f93ea80f5631f673d3d9b7e6b73ac1cd46e5018d5aa627a",
+  "source_status": "downloaded",
+  "source_url": "https://arxiv.org/e-print/2106.06880v2",
+  "source_sha256": "5b3b8c8073fca773ff094b90304f3deb78ca44a0e01506e5162062186af2c2fc",
+  "tex_files": [
+    "SGD_condition_number.tex"
+  ],
+  "text_extracted": true
+}

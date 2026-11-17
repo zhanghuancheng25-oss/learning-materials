@@ -1,0 +1,16 @@
+{
+  "survey_date": "2026-11-17",
+  "scope": "Finite-sum optimization; RR, few epochs, minibatches; selected reading list, not exhaustive",
+  "papers": [
+    {"slug":"p01_why_rr_beats_sgd","arxiv":"1510.08560","title":"Why Random Reshuffling Beats Stochastic Gradient Descent","venue":"Mathematical Programming 2021; arXiv first posted 2015","priority":"background"},
+    {"slug":"p02_sgd_without_replacement","arxiv":"1903.01463","title":"SGD without Replacement: Sharper Rates for General Smooth Convex Functions","venue":"ICML 2019","priority":"background"},
+    {"slug":"p03_simple_analysis","arxiv":"2006.05988","title":"Random Reshuffling: Simple Analysis with Vast Improvements","venue":"NeurIPS 2020","priority":"core"},
+    {"slug":"p04_how_good","arxiv":"1908.00045","title":"How Good is SGD with Random Shuffling?","venue":"COLT 2020","priority":"core"},
+    {"slug":"p05_many_epochs","arxiv":"2106.06880","title":"Random Shuffling Beats SGD Only After Many Epochs on Ill-Conditioned Problems","venue":"NeurIPS 2021","priority":"core"},
+    {"slug":"p06_minibatch_local","arxiv":"2110.10342","title":"Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond","venue":"ICLR 2022","priority":"core"},
+    {"slug":"p07_minibatch_least_squares","arxiv":"2406.03696","title":"Error dynamics of mini-batch gradient descent with random reshuffling for least squares regression","venue":"ALT 2025; arXiv first posted 2024","priority":"core"},
+    {"slug":"p08_rr_dominates","arxiv":"2611.07406","title":"Random Reshuffling for Smooth Convex Optimization: Dominates Stochastic Gradient Descent","venue":"Extended preprint, November 2026; preliminary paper COLT 2026, arXiv:2606.32005","priority":"core"},
+    {"slug":"p09_not_always_better","title":"Random Reshuffling is Not Always Better","venue":"NeurIPS 2020","priority":"boundary","pdf_url":"https://proceedings.neurips.cc/paper_files/paper/2020/file/42299f06ee419aa5d9d07798b56779e2-Paper.pdf"},
+    {"slug":"p10_minibatch_convex_note","title":"Minibatch Random Reshuffling for Smooth Convex Optimization: Batch-Size Dependence, Finite-Population Variance, and Quadratic Growth","venue":"Optimization Online preprint, 11 November 2026; peer review not verified","priority":"recent_watch","pdf_url":"https://optimization-online.org/wp-content/uploads/2026/11/minibatch_rr.pdf"}
+  ]
+}
